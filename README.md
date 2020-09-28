@@ -11,3 +11,4 @@ That is a utility tool to interpret the raw binary ksz8081 registers values blob
 Thus developers will get the entire **bird's eye view** representation of chip configuration.
 
 That is a very handy tool for diagnostic and bug search.
+For example you can open **WinMerge.exe** and **compare** **correct** and **faulty** configuration and reveal the **cause of malfunction**
